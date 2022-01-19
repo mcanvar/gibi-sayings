@@ -1,0 +1,89 @@
+<!doctype html>
+<html class="w-full h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <title>Random gibi Saying Generator</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    keyframes: {
+                        'fade-in-down': {
+                            '0%': {
+                                opacity: '0',
+                                transform: 'translateY(-10px)'
+                            },
+                            '100%': {
+                                opacity: '1',
+                                transform: 'translateY(0)'
+                            },
+                        }
+                    },
+                    animation: {
+                        'fade-in-down': 'fade-in-down 0.5s ease-out'
+                    }
+                },
+            },
+        }
+    </script>
+</head>
+<body class="w-full h-full">
+<div class="bg-[url('https://image.exxen.com/content/s/2O/22396/Poster.jpg')] bg-cover w-full h-full flex justify-center items-center">
+    <div id="card" class="rounded-lg bg-white w-3/4 md:w-2/4 p-2 md:p-4 grid grid-cols-2 animate-fade-in-down">
+        <div class="text-left flex col-span-2">
+            <span class="text-4xl md:text-6xl font-bold pr-2">“</span>
+            <p id="saying" class="text-xl md:text-2xl mt-2"></p>
+        </div>
+        <div class="flex justify-end col-span-2">
+            <p id="saidByAt" class="text-xs md:text-sm leading-2">İlkkan - S1B2</p>
+        </div>
+        <button onclick="newSaying()"
+                class="p-2 mt-4 text-xl md:text-2xl col-span-2 rounded-lg border-solid border-2 border-black hover:bg-black hover:text-white place-self-end">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                 stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+            </svg>
+        </button>
+    </div>
+</div>
+
+<p class="fixed bottom-0 left-0 text-white p-2 text-sm text-center w-full">
+    <a href="https://github.com/mcanvar/gibi-sayings"
+       class="underline"
+       title="API project that provide Turkish sayings said in gibi Show.">Kaynak
+        kodu</a> şöbiyet vaktinden ❤️ feragat edilerek
+    GitHub üzerinden  paylaşılmıştır.
+</p>
+
+<script>
+    function newSaying() {
+        var card = document.getElementById('card');
+        var saying = document.getElementById('saying');
+        var saidByAt = document.getElementById('saidByAt');
+
+        card.style.display = 'none';
+
+        fetch("/v1.0.0/list.json")
+            .then(function (response) {
+                return response.json()
+            })
+            .then(function (sayings) {
+                var randomIndex = Math.floor((Math.random() * sayings.length));
+
+                saying.innerText = sayings[randomIndex].saying;
+                saidByAt.innerText = sayings[randomIndex].saidBy + ' - ' + 'S' + sayings[randomIndex].season + 'B' + sayings[randomIndex].episode;
+                card.style.display = 'grid';
+            });
+    }
+
+    window.addEventListener('DOMContentLoaded', function () {
+        newSaying();
+    });
+</script>
+</body>
+</html>
