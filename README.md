@@ -2,6 +2,8 @@
 
 This is a simple API project that lists Turkish sayings said in gibi Show.
 
+Please check the [example project](https://mcanvar.github.io/gibi-sayings/) created using this API.
+
 ## Endpoints
 
 ### /v1.0.0/lits.json
