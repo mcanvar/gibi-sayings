@@ -1,12 +1,12 @@
 # gibi Sayings Public API for fun
 
-This is a simple API project that lists Turkish sayings said in gibi Show.
+This is a simple API project that lists Turkish sayings said on gibi Show.
 
 Please check the [example project](https://mcanvar.github.io/gibi-sayings/) created using this API.
 
 ## Endpoints
 
-### /v1.0.0/lits.json
+### `/v1.0.0/lits.json`
 
 ```
 curl -X 'GET' \
