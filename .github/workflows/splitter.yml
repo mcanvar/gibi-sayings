@@ -20,6 +20,9 @@ jobs:
       - name: Producing single endpoints.
         run: node splitter.js
 
+      - name: Creating build folder.
+        run: mkdir build
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.2
         with:
