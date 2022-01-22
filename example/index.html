@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
     <title>Random gibi Saying Generator</title>
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -56,7 +56,7 @@
     <a href="https://github.com/mcanvar/gibi-sayings"
        title="API project that provide Turkish sayings said in gibi Show.">Kaynak
         kodu</a> şöbiyet vaktinden feragat edilerek
-    GitHub ❤️ üzerinden  paylaşılmıştır.
+    GitHub ❤️ üzerinden paylaşılmıştır.
     <a href="https://mcanvar.github.io/gibi-sayings/docs/"
        title="API dökümantasyonu.">API dökümantasyonu</a>.
 </p>
@@ -77,7 +77,10 @@
                 var randomIndex = Math.floor((Math.random() * sayings.length));
 
                 saying.innerText = sayings[randomIndex].saying;
-                saidByAt.innerText = sayings[randomIndex].saidBy + ' - ' + 'S' + sayings[randomIndex].season + 'B' + sayings[randomIndex].episode;
+                saidByAt.innerText = sayings[randomIndex].saidBy + ' - ' +
+                    'S' + sayings[randomIndex].season +
+                    'B' + sayings[randomIndex].episode +
+                    ' at ' + sayings[randomIndex].saidAt;
                 card.style.display = 'grid';
             });
     }
