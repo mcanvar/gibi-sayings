@@ -4,6 +4,8 @@ This is a simple API project that lists Turkish sayings said on gibi Show.
 
 Please check the [example project](https://mcanvar.github.io/gibi-sayings/) created using this API.
 
+For API docs please [refer here](https://mcanvar.github.io/gibi-sayings/docs) created by Swagger.
+
 ## Endpoints
 
 ### `/v1.0.0/sayings.json`
@@ -61,8 +63,8 @@ curl -X 'GET' \
 
 ## Contribution
 
-Please check the `sayings.json` before adding new one. Put your saying in alphabetical order and make sure your object is
-respecting this schema:
+Please check the `sayings.json` before adding new one. Put your saying in **alphabetical** order and make sure your object
+is respecting this schema:
 
 ```js
 Saying: {
@@ -82,5 +84,10 @@ Saying: {
 
 ## Disclaimer
 
-This project created and shared to let developers test their front-end & mobile applications during developments in a funny way.
-All rights belongs to gibi on Exxen, nothing related commercial use. All responsibility belongs to the user or forker of the API.
+This project created and shared to let developers test their front-end & mobile applications during developments in a
+funny way. All rights belongs to gibi on Exxen, nothing related commercial use. All responsibility belongs to the user
+or forker of the API.
+
+## Thanks
+
+For style candy special thanks to Tailwind CSS and for lokum icons thanks to Hero Icons.
