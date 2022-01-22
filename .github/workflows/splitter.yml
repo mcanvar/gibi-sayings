@@ -9,22 +9,27 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+
 jobs:
-  build-and-deploy:
-    concurrency: ci-${{ github.ref }}
+  run:
+    name: Generating single endpoints.
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Setting up nodejs
-        uses: actions/setup-node@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
         with:
-          node-version: '14'
+          node-version: 12.x
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.2.2
+      - name: Generate jsons.
+        run: node splitter.js
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v8
         with:
-          branch: gh-pages
-          folder: ./
-          run: node splitter.js
+          author_name: Mevlut Canvar
+          author_email: mevlutcanvar@gmail.com
+          message: 'generates single endpoints'
+          add: '*.json'
