@@ -24,7 +24,7 @@ jobs:
           node-version: 12.x
 
       - name: Creating sayings folder.
-        run: mkdir sayings
+        run: mkdir v1.0.0/sayings
 
       - name: Generating jsons.
         run: node splitter.js
