@@ -23,7 +23,10 @@ jobs:
         with:
           node-version: 12.x
 
-      - name: Generate jsons.
+      - name: Creating sayings folder.
+        run: mkdir sayings
+
+      - name: Generating jsons.
         run: node splitter.js
 
       - name: Commit changes
