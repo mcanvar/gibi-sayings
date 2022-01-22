@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "saying": "Allahın dinlenme tesisinde bu ne sembolizm ya böyle?",
     "season": 2,
     "episode": 4,
@@ -8,15 +7,20 @@
     "saidBy": "Yılmaz"
   },
   {
-    "id": 2,
-    "saying": "Nereye gittiğini bilmeden nasıl yanlış yola girdin sen yahu?",
+    "saying": "Avcı ne kadar hile bilirse, ayı da o kadar yol bilir.",
+    "season": 2,
+    "episode": 2,
+    "saidAt": "36:02",
+    "saidBy": "İlkkan"
+  },
+  {
+    "saying": "Bu da bizden size bir araç kokusu, hediye.",
     "season": 2,
     "episode": 4,
-    "saidAt": "30:57",
+    "saidAt": "54:10",
     "saidBy": "Yılmaz"
   },
   {
-    "id": 3,
     "saying": "Dostlarını tanımak istiyorsan onları seyahate çıkar demişler.",
     "season": 2,
     "episode": 4,
@@ -24,7 +28,6 @@
     "saidBy": "Yılmaz"
   },
   {
-    "id": 4,
     "saying": "Kuş Cenneti bitiyor, bizim bölgemiz başlıyor gibi.",
     "season": 2,
     "episode": 4,
@@ -32,11 +35,10 @@
     "saidBy": "Yılmaz"
   },
   {
-    "id": 5,
-    "saying": "Bu da bizden size bir araç kokusu, hediye.",
+    "saying": "Nereye gittiğini bilmeden nasıl yanlış yola girdin sen yahu?",
     "season": 2,
     "episode": 4,
-    "saidAt": "54:10",
+    "saidAt": "30:57",
     "saidBy": "Yılmaz"
   }
 ]
