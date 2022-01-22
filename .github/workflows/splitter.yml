@@ -22,11 +22,9 @@ jobs:
         with:
           node-version: '14'
 
-      - name: Producing single endpoints. 🛎️
-        run: node splitter.js
-
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.2
         with:
           branch: gh-pages
           folder: ./
+          run: node splitter.js
