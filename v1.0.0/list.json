@@ -1,18 +1,42 @@
 [
   {
     "id": 1,
-    "saying": "Avcı ne kadar hile bilirse, ayı da o kadar yol bilir.",
+    "saying": "Allahın dinlenme tesisinde bu ne sembolizm ya böyle?",
     "season": 2,
     "episode": 4,
-    "saidAt": "22:33",
-    "saidBy": "Ersoy"
+    "saidAt": "22:30",
+    "saidBy": "Yılmaz"
   },
   {
     "id": 2,
-    "saying": "El var ele olur el, dil var dile olur dil, goz var goze olur goz.",
-    "season": 1,
-    "episode": 3,
-    "saidAt": "22:33",
-    "saidBy": "Ilkkan"
+    "saying": "Nereye gittiğini bilmeden nasıl yanlış yola girdin sen yahu?",
+    "season": 2,
+    "episode": 4,
+    "saidAt": "30:57",
+    "saidBy": "Yılmaz"
+  },
+  {
+    "id": 3,
+    "saying": "Dostlarını tanımak istiyorsan onları seyahate çıkar demişler.",
+    "season": 2,
+    "episode": 4,
+    "saidAt": "41:00",
+    "saidBy": "Yılmaz"
+  },
+  {
+    "id": 4,
+    "saying": "Kuş Cenneti bitiyor, bizim bölgemiz başlıyor gibi.",
+    "season": 2,
+    "episode": 4,
+    "saidAt": "53:38",
+    "saidBy": "Yılmaz"
+  },
+  {
+    "id": 5,
+    "saying": "Bu da bizden size bir araç kokusu, hediye.",
+    "season": 2,
+    "episode": 4,
+    "saidAt": "54:10",
+    "saidBy": "Yılmaz"
   }
 ]
