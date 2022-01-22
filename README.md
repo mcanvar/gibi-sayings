@@ -63,7 +63,7 @@ curl -X 'GET' \
 
 ## Contribution
 
-Please check the `sayings.json` before adding new one. Put your saying in **alphabetical** order and make sure your object
+Please check the `sayings.json` before adding new one. Put your saying in **first season then episode and finally the time(saidAt)** order and make sure your object
 is respecting this schema:
 
 ```js
