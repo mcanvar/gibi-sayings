@@ -2,7 +2,7 @@
 
 This is a simple API project that lists Turkish sayings said on gibi Show.
 
-Please check the [example project](https://mcanvar.github.io/gibi-sayings/) created using this API.
+Please check the [example project](https://mcanvar.github.io/gibi-sayings/example/) created using this API.
 
 For API docs please [refer here](https://mcanvar.github.io/gibi-sayings/docs) created by Swagger.
 
