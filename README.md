@@ -1,4 +1,4 @@
-# gibi Sayings Public API for fun
+# gibi Sayings Public API
 
 This is a simple API project that lists Turkish sayings said on gibi Show.
 
