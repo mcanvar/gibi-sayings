@@ -1,12 +1,5 @@
 [
   {
-    "saying": "İlkkan sadece 10 liramın olması sıfır liramın olmasından daha çok canımı yakıyor anladın mı?",
-    "season": 2,
-    "episode": 1,
-    "saidAt": "01:39",
-    "saidBy": "Yılmaz"
-  },
-  {
     "saying": "Ya bi dön bi kendine bak Allah aşkına sen temsil edilmesi gereken bir insan olduğunu mu düşünüyorsun ya?",
     "season": 1,
     "episode": 12,
@@ -95,6 +88,13 @@
     "season": 1,
     "episode": 12,
     "saidAt": "25:23",
+    "saidBy": "Yılmaz"
+  },
+  {
+    "saying": "İlkkan sadece 10 liramın olması sıfır liramın olmasından daha çok canımı yakıyor anladın mı?",
+    "season": 2,
+    "episode": 1,
+    "saidAt": "01:39",
     "saidBy": "Yılmaz"
   },
   {
