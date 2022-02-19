@@ -21,18 +21,20 @@ curl -X 'GET' \
 ```json
 [
   {
-    "saying": "Allahın dinlenme tesisinde bu ne sembolizm ya böyle?",
-    "season": 2,
-    "episode": 4,
-    "saidAt": "22:30",
-    "saidBy": "Yılmaz"
-  },
-  {
     "saying": "Avcı ne kadar hile bilirse, ayı da o kadar yol bilir.",
     "season": 2,
     "episode": 2,
+    "episodeName": "Kuki",
     "saidAt": "36:02",
     "saidBy": "İlkkan"
+  },
+  {
+    "saying": "Allahın dinlenme tesisinde bu ne sembolizm ya böyle?",
+    "season": 2,
+    "episode": 4,
+    "episodeName": "Sokak Röportajı",
+    "saidAt": "22:30",
+    "saidBy": "Yılmaz"
   }
 ]
 
@@ -55,6 +57,7 @@ curl -X 'GET' \
   "saying": "Kuş Cenneti bitiyor, bizim bölgemiz başlıyor gibi.",
   "season": 2,
   "episode": 4,
+  "episodeName": "Sokak Röportajı",
   "saidAt": "53:38",
   "saidBy": "Yılmaz"
 }
@@ -75,6 +78,8 @@ Saying: {
     example: 2
     episode: number(int)
     example: 4
+    saidAt: string
+    episodeName: '22:-'
     saidAt: string
     example: '22:33'
     saidBy: string
