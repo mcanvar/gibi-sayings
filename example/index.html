@@ -86,9 +86,11 @@
             .then(function (sayings) {
                 var randomIndex = Math.floor((Math.random() * sayings.length));
                 var info = sayings[randomIndex].saidBy + ' - ' +
+                    sayings[randomIndex].episodeName;
+                var title =
                     'S' + sayings[randomIndex].season +
-                    'B' + sayings[randomIndex].episode +
-                    ', ' + sayings[randomIndex].saidAt;
+                    'B' + sayings[randomIndex].episode;
+                title += sayings[randomIndex].saidAt.length ? ', ' + sayings[randomIndex].saidAt : '';
 
                 saying.innerText = sayings[randomIndex].saying;
                 link.setAttribute('title', 'Twitter\'da Paylaş');
@@ -101,6 +103,7 @@
                 );
 
                 saidByAt.innerText = info;
+                saidByAt.title = title;
                 card.style.display = 'grid';
             });
     }

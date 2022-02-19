@@ -3,6 +3,7 @@
     "saying": "Yahu Erdem atletik diye ben neden köfteci açmak zorundayım ya? Bu nasıl bir mecburiyet kardeşim ya?",
     "season": 1,
     "episode": 1,
+    "episodeName": "Kokariç",
     "saidAt": "11:39",
     "saidBy": "Yılmaz"
   },
@@ -10,6 +11,7 @@
     "saying": "Sen karşılaştığımız bütün kadınlarla aynı fikirdesin ya!",
     "season": 1,
     "episode": 2,
+    "episodeName": "Vatka",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -17,6 +19,7 @@
     "saying": "Ama işte o kasket öyle birşey yani, hep güzel kasketli adam görürsün, başkasında güzel kasket, şahsen sende olabilecek birşey değil yani.",
     "season": 1,
     "episode": 3,
+    "episodeName": "Nü Model",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -24,6 +27,7 @@
     "saying": "Bir gün önce babaannesi yenen hiç kimse ertesi gün kahvaltıcıya gitti diye kafası dağılmaz.",
     "season": 1,
     "episode": 4,
+    "episodeName": "Erasmusla Gelen Yamyam",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -31,6 +35,7 @@
     "saying": "Bizler sorunlarımızdan kahvaltı yaparak kaçan insanlar da değiliz.",
     "season": 1,
     "episode": 4,
+    "episodeName": "Erasmusla Gelen Yamyam",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -38,6 +43,7 @@
     "saying": "Sarı ve pis kokan bir sıvıdır o, gönül sıvısı. Biz öyle deriz kendi öğretimizde.",
     "season": 1,
     "episode": 5,
+    "episodeName": "Yanlış Mentor",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -45,6 +51,7 @@
     "saying": "Busecim benim sana tavsiyem: İyice okuman lazım, iyice yani, anlatabiliyor muyum? İyice bir oku!",
     "season": 1,
     "episode": 5,
+    "episodeName": "Yanlış Mentor",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -52,6 +59,7 @@
     "saying": "Asıl senin eğitim durumun ne cimcime!",
     "season": 1,
     "episode": 5,
+    "episodeName": "Yanlış Mentor",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -59,6 +67,7 @@
     "saying": "Sen Aynur Ablanla Hitler'i bir mi tutuyon?",
     "season": 1,
     "episode": 6,
+    "episodeName": "Karanlık Güç",
     "saidAt": "",
     "saidBy": "Emrullah Bey"
   },
@@ -66,6 +75,7 @@
     "saying": "Ah benim İlkkan'ım ah!",
     "season": 1,
     "episode": 7,
+    "episodeName": "İkinci Yol",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -73,13 +83,15 @@
     "saying": "Yılmaz'ım be!",
     "season": 1,
     "episode": 7,
+    "episodeName": "İkinci Yol",
     "saidAt": "",
     "saidBy": "İlkkan"
   },
   {
-    "saying": "Parası da tam, 20 lira. Ne çok ucuz, ne de ahlaksızca çok pahalı.",
+    "saying": "Parası da tam 20 lira. Ne çok ucuz, ne de ahlaksızca çok pahalı.",
     "season": 1,
     "episode": 8,
+    "episodeName": "Badana",
     "saidAt": "",
     "saidBy": "Badanacı Ünal"
   },
@@ -87,6 +99,7 @@
     "saying": "Aman bunu başka yerde söyleme gülerler. Komplesini 75 lira, delirdin mi sen?",
     "season": 1,
     "episode": 8,
+    "episodeName": "Badana",
     "saidAt": "",
     "saidBy": "Badanacı Ünal"
   },
@@ -94,6 +107,7 @@
     "saying": "Oğlum saat daha sabah 8, büyücüler daha açılmamıştır.",
     "season": 1,
     "episode": 9,
+    "episodeName": "Ayırtma Yenilemesi",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -101,6 +115,7 @@
     "saying": "Şık giyininden kastı, böyle şıkır şıkır şık değil yani, anlatabiliyor muyum?",
     "season": 1,
     "episode": 10,
+    "episodeName": "Kan Parası",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -108,6 +123,7 @@
     "saying": "Kişiye kişi gerek o ki, kişiliği şahane. Sağol dost!",
     "season": 1,
     "episode": 11,
+    "episodeName": "Yılmaz Bey Banyo",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -115,6 +131,7 @@
     "saying": "Abi dost, kötü günde belli olur.",
     "season": 1,
     "episode": 11,
+    "episodeName": "Yılmaz Bey Banyo",
     "saidAt": "",
     "saidBy": "İlkkan"
   },
@@ -122,6 +139,7 @@
     "saying": "Yahşi günde yar yahşidir, yaman günde yetiş gardaş!",
     "season": 1,
     "episode": 11,
+    "episodeName": "Yılmaz Bey Banyo",
     "saidAt": "",
     "saidBy": "İlkkan"
   },
@@ -129,6 +147,7 @@
     "saying": "El vardır, ele olur el, bel vardır bele olur bel. Dil vardır dile olur dil, göl vardır göle olur göl. Döl vardır döle olur döl.",
     "season": 1,
     "episode": 11,
+    "episodeName": "Yılmaz Bey Banyo",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -136,6 +155,7 @@
     "saying": "Ya bi dön bi kendine bak Allah aşkına sen temsil edilmesi gereken bir insan olduğunu mu düşünüyorsun ya?",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "02:21",
     "saidBy": "Yılmaz"
   },
@@ -143,6 +163,7 @@
     "saying": "Ben abi gelmişim 9 yaşına yani şurada bir iki sene yaşarım, yaşamam zaten. Hani bir de bununla uğraştırma beni ya",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "08:02",
     "saidBy": "Yılmaz"
   },
@@ -150,6 +171,7 @@
     "saying": "Kuyruğu böyle bayan saçı gibiydi, yele yele böyle.",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "10:10",
     "saidBy": "Barlıbay"
   },
@@ -157,6 +179,7 @@
     "saying": "Bu bin yılın kanunudur, canıma can dersin, yersin!",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "15:44",
     "saidBy": "Yılmaz"
   },
@@ -164,6 +187,7 @@
     "saying": "Kanına kan olur yemiş.",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "15:48",
     "saidBy": "Barlıbay"
   },
@@ -171,6 +195,7 @@
     "saying": "Ben hiç et yemedim.",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "15:57",
     "saidBy": "Mengü"
   },
@@ -178,6 +203,7 @@
     "saying": "Ben et yedim.",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "16:06",
     "saidBy": "Mengü"
   },
@@ -185,6 +211,7 @@
     "saying": "Tek sayı yapmayın, yani hani mesela yarınlık tamam da tekrar ettiği zaman çok bölünüyor. Yani çünkü dört olsanız iki iki herkes birbirini taşırdı.",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "18:00",
     "saidBy": "Yılmaz"
   },
@@ -192,6 +219,7 @@
     "saying": "Şu ağaçların orada. Üç yaşına girdiniz, tebrik ederim yani o gün fırsat bulamadım da. Üç, hiç de üç göstermiyorsunuz bu arada ben görsem iki derim.",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "18:18",
     "saidBy": "Yılmaz"
   },
@@ -199,6 +227,7 @@
     "saying": "Ya giderken öyle bir toz toprak çıkarıyorlar ki, sanki tamunun şeytanları gelmiş!",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "19:43",
     "saidBy": "İliteriş"
   },
@@ -206,6 +235,7 @@
     "saying": "Herkes giyinsin, kuşansın! Yılmaz, İliteriş, Mı mı Mengü, Ki ku ki Kutalmış, Barlıbay, Ogeday, Kündoğdu!",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "20:07",
     "saidBy": "Boyga Hakan"
   },
@@ -213,6 +243,7 @@
     "saying": "Hatta, adı Çimen'le Kündoğdu arasında kaldılar, keşke adı Çimen olsaydı ya.",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "24:29",
     "saidBy": "Yılmaz"
   },
@@ -220,6 +251,7 @@
     "saying": "Ne hemen olabilir ya? Benim dedem hayatta böyle sıçmadı. Hemen atalarımızın ruhu falan, hayvan bu.",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "26:48",
     "saidBy": "Yılmaz"
   },
@@ -227,6 +259,7 @@
     "saying": "Sendeki bu güç hevesi bizim ağzımıza sıçtı!",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "30:26",
     "saidBy": "Yılmaz"
   },
@@ -234,6 +267,7 @@
     "saying": "Burgun kurgan kapturur, borduk burgan yeldurur.",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "30:57",
     "saidBy": "Şaman"
   },
@@ -241,6 +275,7 @@
     "saying": "Siktir git lan sen de her yerden çıkıyorsun. Sen kimsin abi? Kim bu ya? Sen daha üç sene evvel karıların götüne bakıyorsun diye dayak yemedin mi burada?",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "31:05",
     "saidBy": "Yılmaz"
   },
@@ -248,6 +283,7 @@
     "saying": "Sizleri zincilerinizle baş başa bırakıyorum!",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "32:01",
     "saidBy": "Yılmaz"
   },
@@ -255,6 +291,7 @@
     "saying": "Bu sesler te şu bulutların ardından geliyor olmalı!",
     "season": 1,
     "episode": 12,
+    "episodeName": "Atın Bulunuşu",
     "saidAt": "25:23",
     "saidBy": "Yılmaz"
   },
@@ -262,6 +299,7 @@
     "saying": "İlkkan sadece 10 liramın olması sıfır liramın olmasından daha çok canımı yakıyor anladın mı?",
     "season": 2,
     "episode": 1,
+    "episodeName": "Vücutçu Yalvaç",
     "saidAt": "01:39",
     "saidBy": "Yılmaz"
   },
@@ -269,6 +307,7 @@
     "saying": "Yalvaç! Lan bu senin halter egon olmasın hı?",
     "season": 2,
     "episode": 1,
+    "episodeName": "Vücutçu Yalvaç",
     "saidAt": "19:13",
     "saidBy": "Ersoy"
   },
@@ -276,6 +315,7 @@
     "saying": "Avcı ne kadar hile bilirse, ayı da o kadar yol bilir.",
     "season": 2,
     "episode": 2,
+    "episodeName": "Kuki",
     "saidAt": "36:02",
     "saidBy": "İlkkan"
   },
@@ -283,6 +323,7 @@
     "saying": "Bir yıl sonrasıysa düşündüğün, tohum ek. Ağaç dik, on yıl sonrasıysa tasarladığın ama yüz yıl sonrasını düşünüyorsan halkı eğit.",
     "season": 2,
     "episode": 3,
+    "episodeName": "Bej",
     "saidAt": "28:01",
     "saidBy": "İlkkan"
   },
@@ -290,6 +331,7 @@
     "saying": "Bir kez tohum ekersen, bir kez ürün alırsın. Bir kez ağaç dikersen on kez ürün alırsın ama yüz kez olur o ürün, eğitirsen toplumu.",
     "season": 2,
     "episode": 3,
+    "episodeName": "Bej",
     "saidAt": "28:18",
     "saidBy": "İlkkan"
   },
@@ -297,6 +339,7 @@
     "saying": "Birine balık verirsen doyar bir defa, balık tutmayı öğret doysun ömrü boyunca.",
     "season": 2,
     "episode": 3,
+    "episodeName": "Bej",
     "saidAt": "28:34",
     "saidBy": "İlkkan"
   },
@@ -304,6 +347,7 @@
     "saying": "Allahın dinlenme tesisinde bu ne sembolizm ya böyle?",
     "season": 2,
     "episode": 4,
+    "episodeName": "Sokak Röportajı",
     "saidAt": "22:30",
     "saidBy": "Yılmaz"
   },
@@ -311,6 +355,7 @@
     "saying": "Bu da bizden size bir araç kokusu, hediye.",
     "season": 2,
     "episode": 4,
+    "episodeName": "Sokak Röportajı",
     "saidAt": "54:10",
     "saidBy": "Yılmaz"
   },
@@ -318,6 +363,7 @@
     "saying": "Dostlarını tanımak istiyorsan onları seyahate çıkar demişler.",
     "season": 2,
     "episode": 4,
+    "episodeName": "Sokak Röportajı",
     "saidAt": "41:00",
     "saidBy": "Yılmaz"
   },
@@ -325,6 +371,7 @@
     "saying": "Kuş Cenneti bitiyor, bizim bölgemiz başlıyor gibi.",
     "season": 2,
     "episode": 4,
+    "episodeName": "Sokak Röportajı",
     "saidAt": "53:38",
     "saidBy": "Yılmaz"
   },
@@ -332,6 +379,7 @@
     "saying": "Nereye gittiğini bilmeden nasıl yanlış yola girdin sen yahu?",
     "season": 2,
     "episode": 4,
+    "episodeName": "Sokak Röportajı",
     "saidAt": "30:57",
     "saidBy": "Yılmaz"
   },
@@ -339,6 +387,7 @@
     "saying": "Karşıt Kaderlerin Kıvrak Dokunuşu'nu yaptırıyoruz Büşra'ya.",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "03:58",
     "saidBy": "Ersoy"
   },
@@ -346,6 +395,7 @@
     "saying": "Maalesef bende o yok. Ben böyle sizin gibi sikimin peşine düşüp de sahte yaşam tarzları edinemiyorum bir anda.",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "09:49",
     "saidBy": "Yılmaz"
   },
@@ -353,6 +403,7 @@
     "saying": "Terzi Şevki tam karşımızdaki, ben Foto Esat.",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "11:51",
     "saidBy": "Kadir"
   },
@@ -360,6 +411,7 @@
     "saying": "Tamam abi, siz Foto Esat'sınız, isminiz Kadir, görüşmek üzere Mandosi!",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "12:48",
     "saidBy": "Yılmaz"
   },
@@ -367,6 +419,7 @@
     "saying": "Boyutsal istilanın kötücül pelerini diye not almışım ben.",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "14:10",
     "saidBy": "Terzi Şevki"
   },
@@ -374,6 +427,7 @@
     "saying": "Tabi ya şimdi anlaşıldı. Yedinci erdem ışığının cübbesini yapacağız biz. Bu sana verdikleri alternatif versiyonu.",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "14:37",
     "saidBy": "Terzi Şevki"
   },
@@ -381,6 +435,7 @@
     "saying": "Üç çeşit versiyonu var bu karakterin: Sessizlik larvalarının muhafızı var, bir de kutsanmış ateşin dikenleri var.",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "14:46",
     "saidBy": "Terzi Şevki"
   },
@@ -388,6 +443,7 @@
     "saying": "Bak! hıhı. Oysa bilmiyorlar ki, muhafız Ederot onu bir zırh olarak yaptırdı, kadim kütüphanede sergilenmek üzere İmparator Belatron'a hediye etti.",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "16:01",
     "saidBy": "Terzi Şevki"
   },
@@ -395,6 +451,7 @@
     "saying": "Ama yani bu kadarını da bilmen lazım ya, şununla ilgileniyorsan, bunu bil yani.",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "16:14",
     "saidBy": "Yılmaz"
   },
@@ -402,6 +459,7 @@
     "saying": "Gürol! Gürolcum! Ya bu 4. seviye yıkıcı prensesin umulmadık parşömenleri çizimi var, sende mi?",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "16:32",
     "saidBy": "Terzi Şevki"
   },
@@ -409,6 +467,7 @@
     "saying": "TERZİDEN SİK SİK ŞEYLER ALINACAK",
     "season": 2,
     "episode": 5,
+    "episodeName": "Çaça ve Cosplay",
     "saidAt": "18:56",
     "saidBy": "Yılmaz'ın Telefonu"
   },
@@ -416,6 +475,7 @@
     "saying": "Ersoy, Şevko böyle bir hata yaptı!",
     "season": 2,
     "episode": 6,
+    "episodeName": "İki İçi Dışı Bir Kişi",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -423,6 +483,7 @@
     "saying": "Sizinkisi üçe ayrılıyor, seninki de cırtlıycan!",
     "season": 2,
     "episode": 6,
+    "episodeName": "İki İçi Dışı Bir Kişi",
     "saidAt": "",
     "saidBy": "Yılmaz"
   },
@@ -430,6 +491,7 @@
     "saying": "Deve alayı bir çeşit konvoydur, deve en önde gider, devenin üstünde çeyiz sandığı vardır. Gelin alınır ve orta eve götürülür.",
     "season": 2,
     "episode": 7,
+    "episodeName": "Gelin Başı",
     "saidAt": "",
     "saidBy": "Ersoy"
   },
@@ -437,6 +499,7 @@
     "saying": "Bahçeye iniliyor ve kaynana donu.",
     "season": 2,
     "episode": 7,
+    "episodeName": "Gelin Başı",
     "saidAt": "",
     "saidBy": "Ersoy"
   },
@@ -444,6 +507,7 @@
     "saying": "Güzel kardeşim, sence bu koca medeniyet sen insanların yüzüne rahat rahat şişko de diye mi bu şekilde gelişti sanıyorsun sen ya?",
     "season": 2,
     "episode": 8,
+    "episodeName": "Resimdeki Ünlü",
     "saidAt": "",
     "saidBy": "Yılmaz"
   }
