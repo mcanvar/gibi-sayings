@@ -66,26 +66,7 @@ curl -X 'GET' \
 
 ## Contribution
 
-Please check the `sayings.json` before adding new one. Put your saying in **first season then episode and finally the time(saidAt)** order and make sure your object
-is respecting this schema:
-
-```js
-Saying: {
-    Required: saying, season, episode, saidAt, saidBy
-    saying: string
-    example: 'Avcı ne kadar hile bilirse, ayı da o kadar yol bilir.'
-    season: number(int)
-    example: 2
-    episode: number(int)
-    example: 4
-    saidAt: string
-    episodeName: '22:-'
-    saidAt: string
-    example: '22:33'
-    saidBy: string
-    example: 'Ersoy'
-}
-```
+Please check [the contributing guide](https://github.com/mcanvar/gibi-sayings/blob/main/CONTRIBUTING.md).
 
 ## Disclaimer
 
